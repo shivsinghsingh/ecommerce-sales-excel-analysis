@@ -1,6 +1,6 @@
 # E-Commerce Sales Analysis – Excel Dashboard
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes E-Commerce sales data using Microsoft Excel.
 
@@ -21,7 +21,7 @@ The project focuses on sales performance, profit, orders, product performance, c
 - AVERAGEIF
 - COUNTIFS
 
-## 📊 Dataset
+## Dataset
 
 The dataset contains 500 E-Commerce orders with the following columns:
 
@@ -39,14 +39,14 @@ The dataset contains 500 E-Commerce orders with the following columns:
 - Sales Amount
 - Profit
 
-## 📈 Dashboard KPIs
+## Dashboard KPIs
 
 - Total Sales
 - Total Orders
 - Total Quantity
 - Average Order Value
 
-## 📊 Analysis Performed
+## Analysis Performed
 
 - Category-wise Sales
 - Category-wise Profit
@@ -59,7 +59,7 @@ The dataset contains 500 E-Commerce orders with the following columns:
 - Profit by Order Status
 - Category-wise Quantity Sold
 
-## 🔎 Excel Formula Analysis
+## Excel Formula Analysis
 
 The project also includes practical Excel formula analysis using:
 
@@ -72,7 +72,7 @@ The project also includes practical Excel formula analysis using:
 - AVERAGEIF
 - COUNTIFS
 
-## 🎯 Key Skills Demonstrated
+## Key Skills Demonstrated
 
 - Data Analysis
 - Excel Dashboard Creation
@@ -82,12 +82,12 @@ The project also includes practical Excel formula analysis using:
 - Excel Lookup & Conditional Functions
 - Business Insights
 
-## 📁 Project Files
+## Project Files
 
 - `Ecommerce_Sales_Analysis_Dashboard.xlsx` – Complete Excel analysis and dashboard
 - `README.md` – Project documentation
 
-## 👨‍💻 Project Type
+## Project Type
 
 E-Commerce Sales Data Analysis Project
 
